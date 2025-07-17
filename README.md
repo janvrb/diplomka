@@ -13,6 +13,7 @@
 	do konzole také vypíše výsledky metrik EPE, RMSE a 3PE.
 
 -	V odkazu na můj Goggle Drive níže přikládám pro každou neuronové sítě natrénovaný model pro každý dataset
+-	https://drive.google.com/drive/folders/1BYYb1H4-G3S2gxJ9dgcyxchS190KqFwB?usp=sharing
 
 
 BONUS INFO:	predict.py funguje vždy jen pro jeden snímek, ne pro celý dataset.
