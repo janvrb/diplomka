@@ -12,7 +12,7 @@
 - 	Poté spusťte predict.py. Vykreslí vám odhadnutou disparity, orig. obrázek, orig. disparitu a absulutní chybu mezi odhadnutou a originální disparitou.
 	do konzole také vypíše výsledky metrik EPE, RMSE a 3PE.
 
--	Ve složce "checkpoints" u každé neuronové sítě přikládám natrénoaný model pro každý dataset
+-	V odkazu na můj Goggle Drive níže přikládám pro každou neuronové sítě natrénovaný model pro každý dataset
 
 
 BONUS INFO:	predict.py funguje vždy jen pro jeden snímek, ne pro celý dataset.
