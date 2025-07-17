@@ -16,4 +16,4 @@
 
 
 BONUS INFO:	predict.py funguje vždy jen pro jeden snímek, ne pro celý dataset.
-		Důležité knihovny: torch + CUDA, numpy, cv2, 
+		Důležité knihovny viz requirements.txt
