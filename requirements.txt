@@ -1,0 +1,9 @@
+matplotlib==3.9.1
+mkl-service==2.4.0
+numpy==2.2.1
+opencv-python==4.11.0.86
+ply==3.11
+PyQt5==5.15.10
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
