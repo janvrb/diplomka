@@ -12,7 +12,7 @@
 - 	Poté spusťte predict.py. Vykreslí vám odhadnutou disparity, orig. obrázek, orig. disparitu a absulutní chybu mezi odhadnutou a originální disparitou.
 	do konzole také vypíše výsledky metrik EPE, RMSE a 3PE.
 
--	V odkazu na můj Goggle Drive níže přikládám pro každou neuronové sítě natrénovaný model pro každý dataset
+-	V odkazu na můj Goggle Drive níže přikládám pro každou neuronovou síť natrénovaný model pro každý dataset
 -	https://drive.google.com/drive/folders/1BYYb1H4-G3S2gxJ9dgcyxchS190KqFwB?usp=sharing
 
 
