@@ -1,0 +1,8 @@
+{
+  "checkpoint_pth": "C:/Skola/Diplomka/Program/Github/Checkpoints/Checkpoints_ACVNet/Tramvaj_Checkpoint.pth",
+  "paths": {
+    "left_folder": "C:/Skola/Diplomka/Datasets/Tramvaj/testing/images_rect/right/",
+    "right_folder": "C:/Skola/Diplomka/Datasets/Tramvaj/testing/images_rect/left/",
+    "disp_folder": "C:/Skola/Diplomka/Datasets/Tramvaj/testing/disp_sync/"
+  }
+}

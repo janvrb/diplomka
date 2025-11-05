@@ -1,9 +1,29 @@
-matplotlib==3.9.1
-mkl-service==2.4.0
-numpy==2.2.1
-opencv-python==4.11.0.86
-ply==3.11
-PyQt5==5.15.10
+# Hlavní knihovny pro vědecké výpočty a neuronové sítě
 torch==2.5.1
 torchaudio==2.5.1
 torchvision==0.20.1
+numpy==2.2.1
+opencv-python==4.11.0.86
+
+# Knihovny pro vizualizaci (váš Visualize_Disparity.py)
+matplotlib==3.8.4
+
+# Knihovny pro GUI (pokud byste ho dělali)
+PyQt5==5.15.10
+
+# Pomocné knihovny (často vyžadovány výše uvedenými)
+Pillow
+PyYAML
+requests
+packaging
+cycler
+fonttools
+kiwisolver
+MarkupSafe
+Jinja2
+networkx
+pyparsing
+python-dateutil
+six
+typing_extensions
+urllib3
