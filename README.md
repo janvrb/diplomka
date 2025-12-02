@@ -1,4 +1,4 @@
-# diplomka
+# Stereo disparity prediction
 
 - 	Odhad disparity se spouští kódem predict.py
 
